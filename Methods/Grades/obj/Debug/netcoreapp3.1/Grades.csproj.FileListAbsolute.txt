@@ -1,0 +1,14 @@
+D:\SoftuniC#Funds21\Methods\Grades\bin\Debug\netcoreapp3.1\Grades.exe
+D:\SoftuniC#Funds21\Methods\Grades\bin\Debug\netcoreapp3.1\Grades.deps.json
+D:\SoftuniC#Funds21\Methods\Grades\bin\Debug\netcoreapp3.1\Grades.runtimeconfig.json
+D:\SoftuniC#Funds21\Methods\Grades\bin\Debug\netcoreapp3.1\Grades.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\Methods\Grades\bin\Debug\netcoreapp3.1\Grades.dll
+D:\SoftuniC#Funds21\Methods\Grades\bin\Debug\netcoreapp3.1\Grades.pdb
+D:\SoftuniC#Funds21\Methods\Grades\obj\Debug\netcoreapp3.1\Grades.csproj.AssemblyReference.cache
+D:\SoftuniC#Funds21\Methods\Grades\obj\Debug\netcoreapp3.1\Grades.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\Methods\Grades\obj\Debug\netcoreapp3.1\Grades.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\Methods\Grades\obj\Debug\netcoreapp3.1\Grades.AssemblyInfo.cs
+D:\SoftuniC#Funds21\Methods\Grades\obj\Debug\netcoreapp3.1\Grades.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\Methods\Grades\obj\Debug\netcoreapp3.1\Grades.dll
+D:\SoftuniC#Funds21\Methods\Grades\obj\Debug\netcoreapp3.1\Grades.pdb
+D:\SoftuniC#Funds21\Methods\Grades\obj\Debug\netcoreapp3.1\Grades.genruntimeconfig.cache

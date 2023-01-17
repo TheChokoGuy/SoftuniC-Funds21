@@ -1,0 +1,14 @@
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Elevator\bin\Debug\netcoreapp3.1\Elevator.exe
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Elevator\bin\Debug\netcoreapp3.1\Elevator.deps.json
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Elevator\bin\Debug\netcoreapp3.1\Elevator.runtimeconfig.json
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Elevator\bin\Debug\netcoreapp3.1\Elevator.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Elevator\bin\Debug\netcoreapp3.1\Elevator.dll
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Elevator\bin\Debug\netcoreapp3.1\Elevator.pdb
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Elevator\obj\Debug\netcoreapp3.1\Elevator.csproj.AssemblyReference.cache
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Elevator\obj\Debug\netcoreapp3.1\Elevator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Elevator\obj\Debug\netcoreapp3.1\Elevator.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Elevator\obj\Debug\netcoreapp3.1\Elevator.AssemblyInfo.cs
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Elevator\obj\Debug\netcoreapp3.1\Elevator.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Elevator\obj\Debug\netcoreapp3.1\Elevator.dll
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Elevator\obj\Debug\netcoreapp3.1\Elevator.pdb
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Elevator\obj\Debug\netcoreapp3.1\Elevator.genruntimeconfig.cache

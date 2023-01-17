@@ -1,0 +1,14 @@
+D:\SoftuniC#Funds21\Objects And Classes\2. Big Factorial\bin\Debug\netcoreapp3.1\2. Big Factorial.exe
+D:\SoftuniC#Funds21\Objects And Classes\2. Big Factorial\bin\Debug\netcoreapp3.1\2. Big Factorial.deps.json
+D:\SoftuniC#Funds21\Objects And Classes\2. Big Factorial\bin\Debug\netcoreapp3.1\2. Big Factorial.runtimeconfig.json
+D:\SoftuniC#Funds21\Objects And Classes\2. Big Factorial\bin\Debug\netcoreapp3.1\2. Big Factorial.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\Objects And Classes\2. Big Factorial\bin\Debug\netcoreapp3.1\2. Big Factorial.dll
+D:\SoftuniC#Funds21\Objects And Classes\2. Big Factorial\bin\Debug\netcoreapp3.1\2. Big Factorial.pdb
+D:\SoftuniC#Funds21\Objects And Classes\2. Big Factorial\obj\Debug\netcoreapp3.1\2. Big Factorial.csprojAssemblyReference.cache
+D:\SoftuniC#Funds21\Objects And Classes\2. Big Factorial\obj\Debug\netcoreapp3.1\2. Big Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\Objects And Classes\2. Big Factorial\obj\Debug\netcoreapp3.1\2. Big Factorial.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\Objects And Classes\2. Big Factorial\obj\Debug\netcoreapp3.1\2. Big Factorial.AssemblyInfo.cs
+D:\SoftuniC#Funds21\Objects And Classes\2. Big Factorial\obj\Debug\netcoreapp3.1\2. Big Factorial.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\Objects And Classes\2. Big Factorial\obj\Debug\netcoreapp3.1\2. Big Factorial.dll
+D:\SoftuniC#Funds21\Objects And Classes\2. Big Factorial\obj\Debug\netcoreapp3.1\2. Big Factorial.pdb
+D:\SoftuniC#Funds21\Objects And Classes\2. Big Factorial\obj\Debug\netcoreapp3.1\2. Big Factorial.genruntimeconfig.cache

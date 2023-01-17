@@ -1,0 +1,14 @@
+D:\SoftuniC#Funds21\Methods\Printing Triangle\bin\Debug\netcoreapp3.1\Printing Triangle.exe
+D:\SoftuniC#Funds21\Methods\Printing Triangle\bin\Debug\netcoreapp3.1\Printing Triangle.deps.json
+D:\SoftuniC#Funds21\Methods\Printing Triangle\bin\Debug\netcoreapp3.1\Printing Triangle.runtimeconfig.json
+D:\SoftuniC#Funds21\Methods\Printing Triangle\bin\Debug\netcoreapp3.1\Printing Triangle.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\Methods\Printing Triangle\bin\Debug\netcoreapp3.1\Printing Triangle.dll
+D:\SoftuniC#Funds21\Methods\Printing Triangle\bin\Debug\netcoreapp3.1\Printing Triangle.pdb
+D:\SoftuniC#Funds21\Methods\Printing Triangle\obj\Debug\netcoreapp3.1\Printing Triangle.csproj.AssemblyReference.cache
+D:\SoftuniC#Funds21\Methods\Printing Triangle\obj\Debug\netcoreapp3.1\Printing Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\Methods\Printing Triangle\obj\Debug\netcoreapp3.1\Printing Triangle.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\Methods\Printing Triangle\obj\Debug\netcoreapp3.1\Printing Triangle.AssemblyInfo.cs
+D:\SoftuniC#Funds21\Methods\Printing Triangle\obj\Debug\netcoreapp3.1\Printing Triangle.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\Methods\Printing Triangle\obj\Debug\netcoreapp3.1\Printing Triangle.dll
+D:\SoftuniC#Funds21\Methods\Printing Triangle\obj\Debug\netcoreapp3.1\Printing Triangle.pdb
+D:\SoftuniC#Funds21\Methods\Printing Triangle\obj\Debug\netcoreapp3.1\Printing Triangle.genruntimeconfig.cache

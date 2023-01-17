@@ -1,0 +1,13 @@
+D:\SoftuniC#Funds21\MethodsPractise\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.exe
+D:\SoftuniC#Funds21\MethodsPractise\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.deps.json
+D:\SoftuniC#Funds21\MethodsPractise\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.runtimeconfig.json
+D:\SoftuniC#Funds21\MethodsPractise\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\MethodsPractise\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.dll
+D:\SoftuniC#Funds21\MethodsPractise\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.pdb
+D:\SoftuniC#Funds21\MethodsPractise\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\MethodsPractise\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\MethodsPractise\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.AssemblyInfo.cs
+D:\SoftuniC#Funds21\MethodsPractise\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\MethodsPractise\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.dll
+D:\SoftuniC#Funds21\MethodsPractise\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.pdb
+D:\SoftuniC#Funds21\MethodsPractise\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.genruntimeconfig.cache

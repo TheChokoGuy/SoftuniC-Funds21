@@ -1,0 +1,16 @@
+D:\SoftuniC#Funds21\TextProccesingExercise\Replace Repeating Chars\bin\Debug\net5.0\Replace Repeating Chars.exe
+D:\SoftuniC#Funds21\TextProccesingExercise\Replace Repeating Chars\bin\Debug\net5.0\Replace Repeating Chars.deps.json
+D:\SoftuniC#Funds21\TextProccesingExercise\Replace Repeating Chars\bin\Debug\net5.0\Replace Repeating Chars.runtimeconfig.json
+D:\SoftuniC#Funds21\TextProccesingExercise\Replace Repeating Chars\bin\Debug\net5.0\Replace Repeating Chars.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\TextProccesingExercise\Replace Repeating Chars\bin\Debug\net5.0\Replace Repeating Chars.dll
+D:\SoftuniC#Funds21\TextProccesingExercise\Replace Repeating Chars\bin\Debug\net5.0\ref\Replace Repeating Chars.dll
+D:\SoftuniC#Funds21\TextProccesingExercise\Replace Repeating Chars\bin\Debug\net5.0\Replace Repeating Chars.pdb
+D:\SoftuniC#Funds21\TextProccesingExercise\Replace Repeating Chars\obj\Debug\net5.0\Replace Repeating Chars.csproj.AssemblyReference.cache
+D:\SoftuniC#Funds21\TextProccesingExercise\Replace Repeating Chars\obj\Debug\net5.0\Replace Repeating Chars.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\TextProccesingExercise\Replace Repeating Chars\obj\Debug\net5.0\Replace Repeating Chars.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\TextProccesingExercise\Replace Repeating Chars\obj\Debug\net5.0\Replace Repeating Chars.AssemblyInfo.cs
+D:\SoftuniC#Funds21\TextProccesingExercise\Replace Repeating Chars\obj\Debug\net5.0\Replace Repeating Chars.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\TextProccesingExercise\Replace Repeating Chars\obj\Debug\net5.0\Replace Repeating Chars.dll
+D:\SoftuniC#Funds21\TextProccesingExercise\Replace Repeating Chars\obj\Debug\net5.0\ref\Replace Repeating Chars.dll
+D:\SoftuniC#Funds21\TextProccesingExercise\Replace Repeating Chars\obj\Debug\net5.0\Replace Repeating Chars.pdb
+D:\SoftuniC#Funds21\TextProccesingExercise\Replace Repeating Chars\obj\Debug\net5.0\Replace Repeating Chars.genruntimeconfig.cache

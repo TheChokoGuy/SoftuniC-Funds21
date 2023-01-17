@@ -1,0 +1,13 @@
+D:\SoftuniC#Funds21\Arrays\Even and Odd Subtraction\bin\Debug\netcoreapp3.1\Even and Odd Subtraction.exe
+D:\SoftuniC#Funds21\Arrays\Even and Odd Subtraction\bin\Debug\netcoreapp3.1\Even and Odd Subtraction.deps.json
+D:\SoftuniC#Funds21\Arrays\Even and Odd Subtraction\bin\Debug\netcoreapp3.1\Even and Odd Subtraction.runtimeconfig.json
+D:\SoftuniC#Funds21\Arrays\Even and Odd Subtraction\bin\Debug\netcoreapp3.1\Even and Odd Subtraction.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\Arrays\Even and Odd Subtraction\bin\Debug\netcoreapp3.1\Even and Odd Subtraction.dll
+D:\SoftuniC#Funds21\Arrays\Even and Odd Subtraction\bin\Debug\netcoreapp3.1\Even and Odd Subtraction.pdb
+D:\SoftuniC#Funds21\Arrays\Even and Odd Subtraction\obj\Debug\netcoreapp3.1\Even and Odd Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\Arrays\Even and Odd Subtraction\obj\Debug\netcoreapp3.1\Even and Odd Subtraction.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\Arrays\Even and Odd Subtraction\obj\Debug\netcoreapp3.1\Even and Odd Subtraction.AssemblyInfo.cs
+D:\SoftuniC#Funds21\Arrays\Even and Odd Subtraction\obj\Debug\netcoreapp3.1\Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\Arrays\Even and Odd Subtraction\obj\Debug\netcoreapp3.1\Even and Odd Subtraction.dll
+D:\SoftuniC#Funds21\Arrays\Even and Odd Subtraction\obj\Debug\netcoreapp3.1\Even and Odd Subtraction.pdb
+D:\SoftuniC#Funds21\Arrays\Even and Odd Subtraction\obj\Debug\netcoreapp3.1\Even and Odd Subtraction.genruntimeconfig.cache

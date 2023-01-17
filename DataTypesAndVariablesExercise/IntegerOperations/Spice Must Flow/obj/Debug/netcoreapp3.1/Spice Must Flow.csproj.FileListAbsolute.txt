@@ -1,0 +1,13 @@
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Spice Must Flow\bin\Debug\netcoreapp3.1\Spice Must Flow.exe
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Spice Must Flow\bin\Debug\netcoreapp3.1\Spice Must Flow.deps.json
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Spice Must Flow\bin\Debug\netcoreapp3.1\Spice Must Flow.runtimeconfig.json
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Spice Must Flow\bin\Debug\netcoreapp3.1\Spice Must Flow.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Spice Must Flow\bin\Debug\netcoreapp3.1\Spice Must Flow.dll
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Spice Must Flow\bin\Debug\netcoreapp3.1\Spice Must Flow.pdb
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Spice Must Flow\obj\Debug\netcoreapp3.1\Spice Must Flow.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Spice Must Flow\obj\Debug\netcoreapp3.1\Spice Must Flow.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Spice Must Flow\obj\Debug\netcoreapp3.1\Spice Must Flow.AssemblyInfo.cs
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Spice Must Flow\obj\Debug\netcoreapp3.1\Spice Must Flow.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Spice Must Flow\obj\Debug\netcoreapp3.1\Spice Must Flow.dll
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Spice Must Flow\obj\Debug\netcoreapp3.1\Spice Must Flow.pdb
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Spice Must Flow\obj\Debug\netcoreapp3.1\Spice Must Flow.genruntimeconfig.cache

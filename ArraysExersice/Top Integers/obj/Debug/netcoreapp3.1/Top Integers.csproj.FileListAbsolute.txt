@@ -1,0 +1,14 @@
+D:\SoftuniC#Funds21\ArraysExersice\Top Integers\bin\Debug\netcoreapp3.1\Top Integers.exe
+D:\SoftuniC#Funds21\ArraysExersice\Top Integers\bin\Debug\netcoreapp3.1\Top Integers.deps.json
+D:\SoftuniC#Funds21\ArraysExersice\Top Integers\bin\Debug\netcoreapp3.1\Top Integers.runtimeconfig.json
+D:\SoftuniC#Funds21\ArraysExersice\Top Integers\bin\Debug\netcoreapp3.1\Top Integers.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\ArraysExersice\Top Integers\bin\Debug\netcoreapp3.1\Top Integers.dll
+D:\SoftuniC#Funds21\ArraysExersice\Top Integers\bin\Debug\netcoreapp3.1\Top Integers.pdb
+D:\SoftuniC#Funds21\ArraysExersice\Top Integers\obj\Debug\netcoreapp3.1\Top Integers.csproj.AssemblyReference.cache
+D:\SoftuniC#Funds21\ArraysExersice\Top Integers\obj\Debug\netcoreapp3.1\Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\ArraysExersice\Top Integers\obj\Debug\netcoreapp3.1\Top Integers.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\ArraysExersice\Top Integers\obj\Debug\netcoreapp3.1\Top Integers.AssemblyInfo.cs
+D:\SoftuniC#Funds21\ArraysExersice\Top Integers\obj\Debug\netcoreapp3.1\Top Integers.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\ArraysExersice\Top Integers\obj\Debug\netcoreapp3.1\Top Integers.dll
+D:\SoftuniC#Funds21\ArraysExersice\Top Integers\obj\Debug\netcoreapp3.1\Top Integers.pdb
+D:\SoftuniC#Funds21\ArraysExersice\Top Integers\obj\Debug\netcoreapp3.1\Top Integers.genruntimeconfig.cache

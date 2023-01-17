@@ -1,0 +1,13 @@
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.exe
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.deps.json
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.runtimeconfig.json
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.dll
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.pdb
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.csprojAssemblyReference.cache
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.AssemblyInfo.cs
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.dll
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.pdb
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\SoftuniC#Funds21\TextProcessing\bin\Debug\net5.0\TextProcessing.exe
+D:\SoftuniC#Funds21\TextProcessing\bin\Debug\net5.0\TextProcessing.deps.json
+D:\SoftuniC#Funds21\TextProcessing\bin\Debug\net5.0\TextProcessing.runtimeconfig.json
+D:\SoftuniC#Funds21\TextProcessing\bin\Debug\net5.0\TextProcessing.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\TextProcessing\bin\Debug\net5.0\TextProcessing.dll
+D:\SoftuniC#Funds21\TextProcessing\bin\Debug\net5.0\ref\TextProcessing.dll
+D:\SoftuniC#Funds21\TextProcessing\bin\Debug\net5.0\TextProcessing.pdb
+D:\SoftuniC#Funds21\TextProcessing\obj\Debug\net5.0\TextProcessing.csproj.AssemblyReference.cache
+D:\SoftuniC#Funds21\TextProcessing\obj\Debug\net5.0\TextProcessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\TextProcessing\obj\Debug\net5.0\TextProcessing.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\TextProcessing\obj\Debug\net5.0\TextProcessing.AssemblyInfo.cs
+D:\SoftuniC#Funds21\TextProcessing\obj\Debug\net5.0\TextProcessing.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\TextProcessing\obj\Debug\net5.0\TextProcessing.dll
+D:\SoftuniC#Funds21\TextProcessing\obj\Debug\net5.0\ref\TextProcessing.dll
+D:\SoftuniC#Funds21\TextProcessing\obj\Debug\net5.0\TextProcessing.pdb
+D:\SoftuniC#Funds21\TextProcessing\obj\Debug\net5.0\TextProcessing.genruntimeconfig.cache

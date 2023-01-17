@@ -1,0 +1,14 @@
+D:\SoftuniC#Funds21\MidExamPrep\Problem 2 - Treasure Hunt\bin\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.exe
+D:\SoftuniC#Funds21\MidExamPrep\Problem 2 - Treasure Hunt\bin\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.deps.json
+D:\SoftuniC#Funds21\MidExamPrep\Problem 2 - Treasure Hunt\bin\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.runtimeconfig.json
+D:\SoftuniC#Funds21\MidExamPrep\Problem 2 - Treasure Hunt\bin\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\MidExamPrep\Problem 2 - Treasure Hunt\bin\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.dll
+D:\SoftuniC#Funds21\MidExamPrep\Problem 2 - Treasure Hunt\bin\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.pdb
+D:\SoftuniC#Funds21\MidExamPrep\Problem 2 - Treasure Hunt\obj\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.csproj.AssemblyReference.cache
+D:\SoftuniC#Funds21\MidExamPrep\Problem 2 - Treasure Hunt\obj\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\MidExamPrep\Problem 2 - Treasure Hunt\obj\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\MidExamPrep\Problem 2 - Treasure Hunt\obj\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.AssemblyInfo.cs
+D:\SoftuniC#Funds21\MidExamPrep\Problem 2 - Treasure Hunt\obj\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\MidExamPrep\Problem 2 - Treasure Hunt\obj\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.dll
+D:\SoftuniC#Funds21\MidExamPrep\Problem 2 - Treasure Hunt\obj\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.pdb
+D:\SoftuniC#Funds21\MidExamPrep\Problem 2 - Treasure Hunt\obj\Debug\netcoreapp3.1\Problem 2 - Treasure Hunt.genruntimeconfig.cache

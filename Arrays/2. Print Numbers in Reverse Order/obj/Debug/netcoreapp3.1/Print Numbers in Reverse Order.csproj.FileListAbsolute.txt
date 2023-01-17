@@ -1,0 +1,13 @@
+D:\SoftuniC#Funds21\Arrays\2. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\Print Numbers in Reverse Order.exe
+D:\SoftuniC#Funds21\Arrays\2. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\Print Numbers in Reverse Order.deps.json
+D:\SoftuniC#Funds21\Arrays\2. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\Print Numbers in Reverse Order.runtimeconfig.json
+D:\SoftuniC#Funds21\Arrays\2. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\Print Numbers in Reverse Order.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\Arrays\2. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\Print Numbers in Reverse Order.dll
+D:\SoftuniC#Funds21\Arrays\2. Print Numbers in Reverse Order\bin\Debug\netcoreapp3.1\Print Numbers in Reverse Order.pdb
+D:\SoftuniC#Funds21\Arrays\2. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\Print Numbers in Reverse Order.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\Arrays\2. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\Arrays\2. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\Print Numbers in Reverse Order.AssemblyInfo.cs
+D:\SoftuniC#Funds21\Arrays\2. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\Arrays\2. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\Print Numbers in Reverse Order.dll
+D:\SoftuniC#Funds21\Arrays\2. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\Print Numbers in Reverse Order.pdb
+D:\SoftuniC#Funds21\Arrays\2. Print Numbers in Reverse Order\obj\Debug\netcoreapp3.1\Print Numbers in Reverse Order.genruntimeconfig.cache

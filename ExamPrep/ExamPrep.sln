@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1", "Problem 1\Problem 1.csproj", "{CF686D35-C027-48F3-B171-39964FABE26C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2", "Problem2\Problem2.csproj", "{E6F769DD-670F-48DC-897B-C04E8D7DEC60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3", "Problem3\Problem3.csproj", "{3C196A68-4AB7-48A0-9BA0-F7B59DF204D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2 Ad Astra", "Problem 2 Ad Astra\Problem 2 Ad Astra.csproj", "{E930C732-F16A-40A7-966E-EC7CDACE5D29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3 The Pianist", "Problem 3 The Pianist\Problem 3 The Pianist.csproj", "{A4337DA6-C6EE-42E8-9281-DF6D7BF39B01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1 Secret Chat", "Problem 1 Secret Chat\Problem 1 Secret Chat.csproj", "{81C45460-91E5-490A-BFAB-942364DCA47F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2 Mirror Words", "Problem 2 Mirror Words\Problem 2 Mirror Words.csproj", "{F7F1FD73-A92C-490C-B656-68A09B38BA7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF686D35-C027-48F3-B171-39964FABE26C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF686D35-C027-48F3-B171-39964FABE26C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF686D35-C027-48F3-B171-39964FABE26C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF686D35-C027-48F3-B171-39964FABE26C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6F769DD-670F-48DC-897B-C04E8D7DEC60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6F769DD-670F-48DC-897B-C04E8D7DEC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6F769DD-670F-48DC-897B-C04E8D7DEC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6F769DD-670F-48DC-897B-C04E8D7DEC60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C196A68-4AB7-48A0-9BA0-F7B59DF204D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C196A68-4AB7-48A0-9BA0-F7B59DF204D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C196A68-4AB7-48A0-9BA0-F7B59DF204D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C196A68-4AB7-48A0-9BA0-F7B59DF204D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E930C732-F16A-40A7-966E-EC7CDACE5D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E930C732-F16A-40A7-966E-EC7CDACE5D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E930C732-F16A-40A7-966E-EC7CDACE5D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E930C732-F16A-40A7-966E-EC7CDACE5D29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4337DA6-C6EE-42E8-9281-DF6D7BF39B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4337DA6-C6EE-42E8-9281-DF6D7BF39B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4337DA6-C6EE-42E8-9281-DF6D7BF39B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4337DA6-C6EE-42E8-9281-DF6D7BF39B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C45460-91E5-490A-BFAB-942364DCA47F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C45460-91E5-490A-BFAB-942364DCA47F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C45460-91E5-490A-BFAB-942364DCA47F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C45460-91E5-490A-BFAB-942364DCA47F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7F1FD73-A92C-490C-B656-68A09B38BA7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F1FD73-A92C-490C-B656-68A09B38BA7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F1FD73-A92C-490C-B656-68A09B38BA7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F1FD73-A92C-490C-B656-68A09B38BA7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

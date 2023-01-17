@@ -1,0 +1,16 @@
+D:\SoftuniC#Funds21\TextProccesingExercise\String Explosion\bin\Debug\net5.0\String Explosion.exe
+D:\SoftuniC#Funds21\TextProccesingExercise\String Explosion\bin\Debug\net5.0\String Explosion.deps.json
+D:\SoftuniC#Funds21\TextProccesingExercise\String Explosion\bin\Debug\net5.0\String Explosion.runtimeconfig.json
+D:\SoftuniC#Funds21\TextProccesingExercise\String Explosion\bin\Debug\net5.0\String Explosion.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\TextProccesingExercise\String Explosion\bin\Debug\net5.0\String Explosion.dll
+D:\SoftuniC#Funds21\TextProccesingExercise\String Explosion\bin\Debug\net5.0\ref\String Explosion.dll
+D:\SoftuniC#Funds21\TextProccesingExercise\String Explosion\bin\Debug\net5.0\String Explosion.pdb
+D:\SoftuniC#Funds21\TextProccesingExercise\String Explosion\obj\Debug\net5.0\String Explosion.csproj.AssemblyReference.cache
+D:\SoftuniC#Funds21\TextProccesingExercise\String Explosion\obj\Debug\net5.0\String Explosion.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\TextProccesingExercise\String Explosion\obj\Debug\net5.0\String Explosion.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\TextProccesingExercise\String Explosion\obj\Debug\net5.0\String Explosion.AssemblyInfo.cs
+D:\SoftuniC#Funds21\TextProccesingExercise\String Explosion\obj\Debug\net5.0\String Explosion.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\TextProccesingExercise\String Explosion\obj\Debug\net5.0\String Explosion.dll
+D:\SoftuniC#Funds21\TextProccesingExercise\String Explosion\obj\Debug\net5.0\ref\String Explosion.dll
+D:\SoftuniC#Funds21\TextProccesingExercise\String Explosion\obj\Debug\net5.0\String Explosion.pdb
+D:\SoftuniC#Funds21\TextProccesingExercise\String Explosion\obj\Debug\net5.0\String Explosion.genruntimeconfig.cache

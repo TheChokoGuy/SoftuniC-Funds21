@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Count Chars in a String", "Dictionaries\1. Count Chars in a String.csproj", "{E9937196-158B-41BB-BD77-19D33FF8EDFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyLogger", "..\KeyLogger\KeyLogger.csproj", "{6CCE3F5D-4031-4FE1-BE20-57DB0DBA5582}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9937196-158B-41BB-BD77-19D33FF8EDFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9937196-158B-41BB-BD77-19D33FF8EDFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9937196-158B-41BB-BD77-19D33FF8EDFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9937196-158B-41BB-BD77-19D33FF8EDFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CCE3F5D-4031-4FE1-BE20-57DB0DBA5582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CCE3F5D-4031-4FE1-BE20-57DB0DBA5582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CCE3F5D-4031-4FE1-BE20-57DB0DBA5582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CCE3F5D-4031-4FE1-BE20-57DB0DBA5582}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E3382A2-90DB-47B3-91F7-F1AFA862F121}
+	EndGlobalSection
+EndGlobal

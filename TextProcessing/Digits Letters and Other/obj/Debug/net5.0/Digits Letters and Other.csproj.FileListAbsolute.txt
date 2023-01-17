@@ -1,0 +1,16 @@
+D:\SoftuniC#Funds21\TextProcessing\Digits Letters and Other\bin\Debug\net5.0\Digits Letters and Other.exe
+D:\SoftuniC#Funds21\TextProcessing\Digits Letters and Other\bin\Debug\net5.0\Digits Letters and Other.deps.json
+D:\SoftuniC#Funds21\TextProcessing\Digits Letters and Other\bin\Debug\net5.0\Digits Letters and Other.runtimeconfig.json
+D:\SoftuniC#Funds21\TextProcessing\Digits Letters and Other\bin\Debug\net5.0\Digits Letters and Other.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\TextProcessing\Digits Letters and Other\bin\Debug\net5.0\Digits Letters and Other.dll
+D:\SoftuniC#Funds21\TextProcessing\Digits Letters and Other\bin\Debug\net5.0\ref\Digits Letters and Other.dll
+D:\SoftuniC#Funds21\TextProcessing\Digits Letters and Other\bin\Debug\net5.0\Digits Letters and Other.pdb
+D:\SoftuniC#Funds21\TextProcessing\Digits Letters and Other\obj\Debug\net5.0\Digits Letters and Other.csproj.AssemblyReference.cache
+D:\SoftuniC#Funds21\TextProcessing\Digits Letters and Other\obj\Debug\net5.0\Digits Letters and Other.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\TextProcessing\Digits Letters and Other\obj\Debug\net5.0\Digits Letters and Other.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\TextProcessing\Digits Letters and Other\obj\Debug\net5.0\Digits Letters and Other.AssemblyInfo.cs
+D:\SoftuniC#Funds21\TextProcessing\Digits Letters and Other\obj\Debug\net5.0\Digits Letters and Other.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\TextProcessing\Digits Letters and Other\obj\Debug\net5.0\Digits Letters and Other.dll
+D:\SoftuniC#Funds21\TextProcessing\Digits Letters and Other\obj\Debug\net5.0\ref\Digits Letters and Other.dll
+D:\SoftuniC#Funds21\TextProcessing\Digits Letters and Other\obj\Debug\net5.0\Digits Letters and Other.pdb
+D:\SoftuniC#Funds21\TextProcessing\Digits Letters and Other\obj\Debug\net5.0\Digits Letters and Other.genruntimeconfig.cache

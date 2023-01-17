@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "I. Using the Built-in .NET Classes/1.0.0": {
+        "runtime": {
+          "I. Using the Built-in .NET Classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "I. Using the Built-in .NET Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

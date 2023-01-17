@@ -1,0 +1,13 @@
+D:\SoftuniC#Funds21\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\netcoreapp3.1\ConvertMetersToKilometers.exe
+D:\SoftuniC#Funds21\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\netcoreapp3.1\ConvertMetersToKilometers.deps.json
+D:\SoftuniC#Funds21\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\netcoreapp3.1\ConvertMetersToKilometers.runtimeconfig.json
+D:\SoftuniC#Funds21\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\netcoreapp3.1\ConvertMetersToKilometers.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\netcoreapp3.1\ConvertMetersToKilometers.dll
+D:\SoftuniC#Funds21\DataTypesAndVariables\DataTypesAndVariables\bin\Debug\netcoreapp3.1\ConvertMetersToKilometers.pdb
+D:\SoftuniC#Funds21\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\netcoreapp3.1\ConvertMetersToKilometers.csprojAssemblyReference.cache
+D:\SoftuniC#Funds21\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\netcoreapp3.1\ConvertMetersToKilometers.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\netcoreapp3.1\ConvertMetersToKilometers.AssemblyInfo.cs
+D:\SoftuniC#Funds21\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\netcoreapp3.1\ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\netcoreapp3.1\ConvertMetersToKilometers.dll
+D:\SoftuniC#Funds21\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\netcoreapp3.1\ConvertMetersToKilometers.pdb
+D:\SoftuniC#Funds21\DataTypesAndVariables\DataTypesAndVariables\obj\Debug\netcoreapp3.1\ConvertMetersToKilometers.genruntimeconfig.cache

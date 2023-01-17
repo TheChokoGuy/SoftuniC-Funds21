@@ -1,0 +1,14 @@
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.exe
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.deps.json
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.runtimeconfig.json
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.dll
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.pdb
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.AssemblyInfo.cs
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.dll
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.pdb
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.genruntimeconfig.cache
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\Test\bin\Debug\netcoreapp3.1\Test.exe
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\Test\bin\Debug\netcoreapp3.1\Test.dll
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\Test\bin\Debug\netcoreapp3.1\Test.pdb
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\Test\obj\Debug\netcoreapp3.1\Test.dll
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\Test\obj\Debug\netcoreapp3.1\Test.pdb
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache

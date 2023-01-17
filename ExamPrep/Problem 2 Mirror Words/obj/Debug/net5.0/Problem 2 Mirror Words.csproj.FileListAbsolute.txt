@@ -1,0 +1,16 @@
+D:\SoftuniC#Funds21\ExamPrep\Problem 2 Mirror Words\bin\Debug\net5.0\Problem 2 Mirror Words.exe
+D:\SoftuniC#Funds21\ExamPrep\Problem 2 Mirror Words\bin\Debug\net5.0\Problem 2 Mirror Words.deps.json
+D:\SoftuniC#Funds21\ExamPrep\Problem 2 Mirror Words\bin\Debug\net5.0\Problem 2 Mirror Words.runtimeconfig.json
+D:\SoftuniC#Funds21\ExamPrep\Problem 2 Mirror Words\bin\Debug\net5.0\Problem 2 Mirror Words.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\ExamPrep\Problem 2 Mirror Words\bin\Debug\net5.0\Problem 2 Mirror Words.dll
+D:\SoftuniC#Funds21\ExamPrep\Problem 2 Mirror Words\bin\Debug\net5.0\ref\Problem 2 Mirror Words.dll
+D:\SoftuniC#Funds21\ExamPrep\Problem 2 Mirror Words\bin\Debug\net5.0\Problem 2 Mirror Words.pdb
+D:\SoftuniC#Funds21\ExamPrep\Problem 2 Mirror Words\obj\Debug\net5.0\Problem 2 Mirror Words.csproj.AssemblyReference.cache
+D:\SoftuniC#Funds21\ExamPrep\Problem 2 Mirror Words\obj\Debug\net5.0\Problem 2 Mirror Words.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\ExamPrep\Problem 2 Mirror Words\obj\Debug\net5.0\Problem 2 Mirror Words.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\ExamPrep\Problem 2 Mirror Words\obj\Debug\net5.0\Problem 2 Mirror Words.AssemblyInfo.cs
+D:\SoftuniC#Funds21\ExamPrep\Problem 2 Mirror Words\obj\Debug\net5.0\Problem 2 Mirror Words.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\ExamPrep\Problem 2 Mirror Words\obj\Debug\net5.0\Problem 2 Mirror Words.dll
+D:\SoftuniC#Funds21\ExamPrep\Problem 2 Mirror Words\obj\Debug\net5.0\ref\Problem 2 Mirror Words.dll
+D:\SoftuniC#Funds21\ExamPrep\Problem 2 Mirror Words\obj\Debug\net5.0\Problem 2 Mirror Words.pdb
+D:\SoftuniC#Funds21\ExamPrep\Problem 2 Mirror Words\obj\Debug\net5.0\Problem 2 Mirror Words.genruntimeconfig.cache

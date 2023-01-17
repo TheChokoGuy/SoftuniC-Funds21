@@ -1,0 +1,12 @@
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.exe
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.deps.json
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.runtimeconfig.json
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.dll
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.pdb
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.AssemblyInfo.cs
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.dll
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.pdb
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.genruntimeconfig.cache

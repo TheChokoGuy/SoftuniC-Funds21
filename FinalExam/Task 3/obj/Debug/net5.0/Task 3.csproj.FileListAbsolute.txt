@@ -1,0 +1,16 @@
+D:\SoftuniC#Funds21\FinalExam\Task 3\bin\Debug\net5.0\Task 3.exe
+D:\SoftuniC#Funds21\FinalExam\Task 3\bin\Debug\net5.0\Task 3.deps.json
+D:\SoftuniC#Funds21\FinalExam\Task 3\bin\Debug\net5.0\Task 3.runtimeconfig.json
+D:\SoftuniC#Funds21\FinalExam\Task 3\bin\Debug\net5.0\Task 3.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\FinalExam\Task 3\bin\Debug\net5.0\Task 3.dll
+D:\SoftuniC#Funds21\FinalExam\Task 3\bin\Debug\net5.0\ref\Task 3.dll
+D:\SoftuniC#Funds21\FinalExam\Task 3\bin\Debug\net5.0\Task 3.pdb
+D:\SoftuniC#Funds21\FinalExam\Task 3\obj\Debug\net5.0\Task 3.csproj.AssemblyReference.cache
+D:\SoftuniC#Funds21\FinalExam\Task 3\obj\Debug\net5.0\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\FinalExam\Task 3\obj\Debug\net5.0\Task 3.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\FinalExam\Task 3\obj\Debug\net5.0\Task 3.AssemblyInfo.cs
+D:\SoftuniC#Funds21\FinalExam\Task 3\obj\Debug\net5.0\Task 3.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\FinalExam\Task 3\obj\Debug\net5.0\Task 3.dll
+D:\SoftuniC#Funds21\FinalExam\Task 3\obj\Debug\net5.0\ref\Task 3.dll
+D:\SoftuniC#Funds21\FinalExam\Task 3\obj\Debug\net5.0\Task 3.pdb
+D:\SoftuniC#Funds21\FinalExam\Task 3\obj\Debug\net5.0\Task 3.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftuniC#Funds21\MidExamPrep\MidExamPrep\bin\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.exe
+D:\SoftuniC#Funds21\MidExamPrep\MidExamPrep\bin\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.deps.json
+D:\SoftuniC#Funds21\MidExamPrep\MidExamPrep\bin\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.runtimeconfig.json
+D:\SoftuniC#Funds21\MidExamPrep\MidExamPrep\bin\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\MidExamPrep\MidExamPrep\bin\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.dll
+D:\SoftuniC#Funds21\MidExamPrep\MidExamPrep\bin\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.pdb
+D:\SoftuniC#Funds21\MidExamPrep\MidExamPrep\obj\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.csproj.AssemblyReference.cache
+D:\SoftuniC#Funds21\MidExamPrep\MidExamPrep\obj\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\MidExamPrep\MidExamPrep\obj\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\MidExamPrep\MidExamPrep\obj\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.AssemblyInfo.cs
+D:\SoftuniC#Funds21\MidExamPrep\MidExamPrep\obj\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\MidExamPrep\MidExamPrep\obj\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.dll
+D:\SoftuniC#Funds21\MidExamPrep\MidExamPrep\obj\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.pdb
+D:\SoftuniC#Funds21\MidExamPrep\MidExamPrep\obj\Debug\netcoreapp3.1\Problem 3 - Heart Delivery.genruntimeconfig.cache

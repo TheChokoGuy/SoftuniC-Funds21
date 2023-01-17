@@ -1,0 +1,13 @@
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.exe
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.deps.json
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.runtimeconfig.json
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.dll
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.pdb
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.csprojAssemblyReference.cache
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.AssemblyInfo.cs
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.dll
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.pdb
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.genruntimeconfig.cache

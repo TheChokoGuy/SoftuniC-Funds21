@@ -1,0 +1,12 @@
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.exe
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.deps.json
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.runtimeconfig.json
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.dll
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.pdb
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.AssemblyInfo.cs
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.dll
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.pdb
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.genruntimeconfig.cache

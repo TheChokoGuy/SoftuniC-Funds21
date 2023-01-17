@@ -1,0 +1,13 @@
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\StudentInformation\bin\Debug\netcoreapp3.1\StudentInformation.exe
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\StudentInformation\bin\Debug\netcoreapp3.1\StudentInformation.deps.json
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\StudentInformation\bin\Debug\netcoreapp3.1\StudentInformation.runtimeconfig.json
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\StudentInformation\bin\Debug\netcoreapp3.1\StudentInformation.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\StudentInformation\bin\Debug\netcoreapp3.1\StudentInformation.dll
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\StudentInformation\bin\Debug\netcoreapp3.1\StudentInformation.pdb
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\StudentInformation\obj\Debug\netcoreapp3.1\StudentInformation.csprojAssemblyReference.cache
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\StudentInformation\obj\Debug\netcoreapp3.1\StudentInformation.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\StudentInformation\obj\Debug\netcoreapp3.1\StudentInformation.AssemblyInfo.cs
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\StudentInformation\obj\Debug\netcoreapp3.1\StudentInformation.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\StudentInformation\obj\Debug\netcoreapp3.1\StudentInformation.dll
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\StudentInformation\obj\Debug\netcoreapp3.1\StudentInformation.pdb
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\StudentInformation\obj\Debug\netcoreapp3.1\StudentInformation.genruntimeconfig.cache

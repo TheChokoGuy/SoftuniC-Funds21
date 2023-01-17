@@ -1,0 +1,16 @@
+D:\SoftuniC#Funds21\ExamPrep\Problem 3 The Pianist\bin\Debug\net5.0\Problem 3 The Pianist.exe
+D:\SoftuniC#Funds21\ExamPrep\Problem 3 The Pianist\bin\Debug\net5.0\Problem 3 The Pianist.deps.json
+D:\SoftuniC#Funds21\ExamPrep\Problem 3 The Pianist\bin\Debug\net5.0\Problem 3 The Pianist.runtimeconfig.json
+D:\SoftuniC#Funds21\ExamPrep\Problem 3 The Pianist\bin\Debug\net5.0\Problem 3 The Pianist.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\ExamPrep\Problem 3 The Pianist\bin\Debug\net5.0\Problem 3 The Pianist.dll
+D:\SoftuniC#Funds21\ExamPrep\Problem 3 The Pianist\bin\Debug\net5.0\ref\Problem 3 The Pianist.dll
+D:\SoftuniC#Funds21\ExamPrep\Problem 3 The Pianist\bin\Debug\net5.0\Problem 3 The Pianist.pdb
+D:\SoftuniC#Funds21\ExamPrep\Problem 3 The Pianist\obj\Debug\net5.0\Problem 3 The Pianist.csproj.AssemblyReference.cache
+D:\SoftuniC#Funds21\ExamPrep\Problem 3 The Pianist\obj\Debug\net5.0\Problem 3 The Pianist.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\ExamPrep\Problem 3 The Pianist\obj\Debug\net5.0\Problem 3 The Pianist.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\ExamPrep\Problem 3 The Pianist\obj\Debug\net5.0\Problem 3 The Pianist.AssemblyInfo.cs
+D:\SoftuniC#Funds21\ExamPrep\Problem 3 The Pianist\obj\Debug\net5.0\Problem 3 The Pianist.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\ExamPrep\Problem 3 The Pianist\obj\Debug\net5.0\Problem 3 The Pianist.dll
+D:\SoftuniC#Funds21\ExamPrep\Problem 3 The Pianist\obj\Debug\net5.0\ref\Problem 3 The Pianist.dll
+D:\SoftuniC#Funds21\ExamPrep\Problem 3 The Pianist\obj\Debug\net5.0\Problem 3 The Pianist.pdb
+D:\SoftuniC#Funds21\ExamPrep\Problem 3 The Pianist\obj\Debug\net5.0\Problem 3 The Pianist.genruntimeconfig.cache

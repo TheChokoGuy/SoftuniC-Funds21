@@ -1,0 +1,13 @@
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\Waiting30Mins\bin\Debug\netcoreapp3.1\Waiting30Mins.exe
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\Waiting30Mins\bin\Debug\netcoreapp3.1\Waiting30Mins.deps.json
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\Waiting30Mins\bin\Debug\netcoreapp3.1\Waiting30Mins.runtimeconfig.json
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\Waiting30Mins\bin\Debug\netcoreapp3.1\Waiting30Mins.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\Waiting30Mins\bin\Debug\netcoreapp3.1\Waiting30Mins.dll
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\Waiting30Mins\bin\Debug\netcoreapp3.1\Waiting30Mins.pdb
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\Waiting30Mins\obj\Debug\netcoreapp3.1\Waiting30Mins.csprojAssemblyReference.cache
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\Waiting30Mins\obj\Debug\netcoreapp3.1\Waiting30Mins.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\Waiting30Mins\obj\Debug\netcoreapp3.1\Waiting30Mins.AssemblyInfo.cs
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\Waiting30Mins\obj\Debug\netcoreapp3.1\Waiting30Mins.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\Waiting30Mins\obj\Debug\netcoreapp3.1\Waiting30Mins.dll
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\Waiting30Mins\obj\Debug\netcoreapp3.1\Waiting30Mins.pdb
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\Waiting30Mins\obj\Debug\netcoreapp3.1\Waiting30Mins.genruntimeconfig.cache

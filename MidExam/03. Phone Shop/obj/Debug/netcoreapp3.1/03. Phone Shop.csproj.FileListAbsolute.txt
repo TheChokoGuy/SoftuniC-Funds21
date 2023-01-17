@@ -1,0 +1,14 @@
+D:\SoftuniC#Funds21\MidExam\03. Phone Shop\bin\Debug\netcoreapp3.1\03. Phone Shop.exe
+D:\SoftuniC#Funds21\MidExam\03. Phone Shop\bin\Debug\netcoreapp3.1\03. Phone Shop.deps.json
+D:\SoftuniC#Funds21\MidExam\03. Phone Shop\bin\Debug\netcoreapp3.1\03. Phone Shop.runtimeconfig.json
+D:\SoftuniC#Funds21\MidExam\03. Phone Shop\bin\Debug\netcoreapp3.1\03. Phone Shop.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\MidExam\03. Phone Shop\bin\Debug\netcoreapp3.1\03. Phone Shop.dll
+D:\SoftuniC#Funds21\MidExam\03. Phone Shop\bin\Debug\netcoreapp3.1\03. Phone Shop.pdb
+D:\SoftuniC#Funds21\MidExam\03. Phone Shop\obj\Debug\netcoreapp3.1\03. Phone Shop.csproj.AssemblyReference.cache
+D:\SoftuniC#Funds21\MidExam\03. Phone Shop\obj\Debug\netcoreapp3.1\03. Phone Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\MidExam\03. Phone Shop\obj\Debug\netcoreapp3.1\03. Phone Shop.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\MidExam\03. Phone Shop\obj\Debug\netcoreapp3.1\03. Phone Shop.AssemblyInfo.cs
+D:\SoftuniC#Funds21\MidExam\03. Phone Shop\obj\Debug\netcoreapp3.1\03. Phone Shop.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\MidExam\03. Phone Shop\obj\Debug\netcoreapp3.1\03. Phone Shop.dll
+D:\SoftuniC#Funds21\MidExam\03. Phone Shop\obj\Debug\netcoreapp3.1\03. Phone Shop.pdb
+D:\SoftuniC#Funds21\MidExam\03. Phone Shop\obj\Debug\netcoreapp3.1\03. Phone Shop.genruntimeconfig.cache

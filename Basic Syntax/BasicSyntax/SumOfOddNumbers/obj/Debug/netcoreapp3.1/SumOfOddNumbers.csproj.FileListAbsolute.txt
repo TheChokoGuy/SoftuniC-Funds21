@@ -1,0 +1,13 @@
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\SumOfOddNumbers\bin\Debug\netcoreapp3.1\SumOfOddNumbers.exe
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\SumOfOddNumbers\bin\Debug\netcoreapp3.1\SumOfOddNumbers.deps.json
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\SumOfOddNumbers\bin\Debug\netcoreapp3.1\SumOfOddNumbers.runtimeconfig.json
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\SumOfOddNumbers\bin\Debug\netcoreapp3.1\SumOfOddNumbers.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\SumOfOddNumbers\bin\Debug\netcoreapp3.1\SumOfOddNumbers.dll
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\SumOfOddNumbers\bin\Debug\netcoreapp3.1\SumOfOddNumbers.pdb
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.AssemblyInfo.cs
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.dll
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.pdb
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.genruntimeconfig.cache
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.csprojAssemblyReference.cache

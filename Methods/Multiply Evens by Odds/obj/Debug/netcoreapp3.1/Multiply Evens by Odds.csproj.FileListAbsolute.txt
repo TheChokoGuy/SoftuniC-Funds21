@@ -1,0 +1,13 @@
+D:\SoftuniC#Funds21\Methods\Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Multiply Evens by Odds.exe
+D:\SoftuniC#Funds21\Methods\Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Multiply Evens by Odds.deps.json
+D:\SoftuniC#Funds21\Methods\Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Multiply Evens by Odds.runtimeconfig.json
+D:\SoftuniC#Funds21\Methods\Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Multiply Evens by Odds.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\Methods\Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Multiply Evens by Odds.dll
+D:\SoftuniC#Funds21\Methods\Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Multiply Evens by Odds.pdb
+D:\SoftuniC#Funds21\Methods\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\Methods\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\Methods\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.AssemblyInfo.cs
+D:\SoftuniC#Funds21\Methods\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\Methods\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.dll
+D:\SoftuniC#Funds21\Methods\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.pdb
+D:\SoftuniC#Funds21\Methods\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftuniC#Funds21\MethodsPractise\Factorial Division\bin\Debug\netcoreapp3.1\Factorial Division.exe
+D:\SoftuniC#Funds21\MethodsPractise\Factorial Division\bin\Debug\netcoreapp3.1\Factorial Division.deps.json
+D:\SoftuniC#Funds21\MethodsPractise\Factorial Division\bin\Debug\netcoreapp3.1\Factorial Division.runtimeconfig.json
+D:\SoftuniC#Funds21\MethodsPractise\Factorial Division\bin\Debug\netcoreapp3.1\Factorial Division.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\MethodsPractise\Factorial Division\bin\Debug\netcoreapp3.1\Factorial Division.dll
+D:\SoftuniC#Funds21\MethodsPractise\Factorial Division\bin\Debug\netcoreapp3.1\Factorial Division.pdb
+D:\SoftuniC#Funds21\MethodsPractise\Factorial Division\obj\Debug\netcoreapp3.1\Factorial Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\MethodsPractise\Factorial Division\obj\Debug\netcoreapp3.1\Factorial Division.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\MethodsPractise\Factorial Division\obj\Debug\netcoreapp3.1\Factorial Division.AssemblyInfo.cs
+D:\SoftuniC#Funds21\MethodsPractise\Factorial Division\obj\Debug\netcoreapp3.1\Factorial Division.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\MethodsPractise\Factorial Division\obj\Debug\netcoreapp3.1\Factorial Division.dll
+D:\SoftuniC#Funds21\MethodsPractise\Factorial Division\obj\Debug\netcoreapp3.1\Factorial Division.pdb
+D:\SoftuniC#Funds21\MethodsPractise\Factorial Division\obj\Debug\netcoreapp3.1\Factorial Division.genruntimeconfig.cache

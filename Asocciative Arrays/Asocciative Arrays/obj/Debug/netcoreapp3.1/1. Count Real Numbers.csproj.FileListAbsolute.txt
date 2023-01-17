@@ -1,0 +1,14 @@
+D:\SoftuniC#Funds21\Asocciative Arrays\Asocciative Arrays\bin\Debug\netcoreapp3.1\1. Count Real Numbers.exe
+D:\SoftuniC#Funds21\Asocciative Arrays\Asocciative Arrays\bin\Debug\netcoreapp3.1\1. Count Real Numbers.deps.json
+D:\SoftuniC#Funds21\Asocciative Arrays\Asocciative Arrays\bin\Debug\netcoreapp3.1\1. Count Real Numbers.runtimeconfig.json
+D:\SoftuniC#Funds21\Asocciative Arrays\Asocciative Arrays\bin\Debug\netcoreapp3.1\1. Count Real Numbers.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\Asocciative Arrays\Asocciative Arrays\bin\Debug\netcoreapp3.1\1. Count Real Numbers.dll
+D:\SoftuniC#Funds21\Asocciative Arrays\Asocciative Arrays\bin\Debug\netcoreapp3.1\1. Count Real Numbers.pdb
+D:\SoftuniC#Funds21\Asocciative Arrays\Asocciative Arrays\obj\Debug\netcoreapp3.1\1. Count Real Numbers.csproj.AssemblyReference.cache
+D:\SoftuniC#Funds21\Asocciative Arrays\Asocciative Arrays\obj\Debug\netcoreapp3.1\1. Count Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\Asocciative Arrays\Asocciative Arrays\obj\Debug\netcoreapp3.1\1. Count Real Numbers.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\Asocciative Arrays\Asocciative Arrays\obj\Debug\netcoreapp3.1\1. Count Real Numbers.AssemblyInfo.cs
+D:\SoftuniC#Funds21\Asocciative Arrays\Asocciative Arrays\obj\Debug\netcoreapp3.1\1. Count Real Numbers.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\Asocciative Arrays\Asocciative Arrays\obj\Debug\netcoreapp3.1\1. Count Real Numbers.dll
+D:\SoftuniC#Funds21\Asocciative Arrays\Asocciative Arrays\obj\Debug\netcoreapp3.1\1. Count Real Numbers.pdb
+D:\SoftuniC#Funds21\Asocciative Arrays\Asocciative Arrays\obj\Debug\netcoreapp3.1\1. Count Real Numbers.genruntimeconfig.cache

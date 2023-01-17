@@ -1,0 +1,12 @@
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.exe
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.deps.json
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.runtimeconfig.json
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.dll
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.pdb
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.AssemblyInfo.cs
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.dll
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.pdb
+D:\SoftuniC#Funds21\Basic Syntax Exersice\BasicSyntaxExersice\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.genruntimeconfig.cache

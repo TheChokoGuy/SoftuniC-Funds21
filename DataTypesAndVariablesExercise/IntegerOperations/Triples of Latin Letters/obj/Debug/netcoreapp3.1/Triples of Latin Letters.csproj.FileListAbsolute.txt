@@ -1,0 +1,14 @@
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Triples of Latin Letters\bin\Debug\netcoreapp3.1\Triples of Latin Letters.exe
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Triples of Latin Letters\bin\Debug\netcoreapp3.1\Triples of Latin Letters.deps.json
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Triples of Latin Letters\bin\Debug\netcoreapp3.1\Triples of Latin Letters.runtimeconfig.json
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Triples of Latin Letters\bin\Debug\netcoreapp3.1\Triples of Latin Letters.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Triples of Latin Letters\bin\Debug\netcoreapp3.1\Triples of Latin Letters.dll
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Triples of Latin Letters\bin\Debug\netcoreapp3.1\Triples of Latin Letters.pdb
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Triples of Latin Letters\obj\Debug\netcoreapp3.1\Triples of Latin Letters.csproj.AssemblyReference.cache
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Triples of Latin Letters\obj\Debug\netcoreapp3.1\Triples of Latin Letters.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Triples of Latin Letters\obj\Debug\netcoreapp3.1\Triples of Latin Letters.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Triples of Latin Letters\obj\Debug\netcoreapp3.1\Triples of Latin Letters.AssemblyInfo.cs
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Triples of Latin Letters\obj\Debug\netcoreapp3.1\Triples of Latin Letters.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Triples of Latin Letters\obj\Debug\netcoreapp3.1\Triples of Latin Letters.dll
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Triples of Latin Letters\obj\Debug\netcoreapp3.1\Triples of Latin Letters.pdb
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Triples of Latin Letters\obj\Debug\netcoreapp3.1\Triples of Latin Letters.genruntimeconfig.cache

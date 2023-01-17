@@ -1,0 +1,13 @@
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Water Overflow\bin\Debug\netcoreapp3.1\Water Overflow.exe
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Water Overflow\bin\Debug\netcoreapp3.1\Water Overflow.deps.json
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Water Overflow\bin\Debug\netcoreapp3.1\Water Overflow.runtimeconfig.json
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Water Overflow\bin\Debug\netcoreapp3.1\Water Overflow.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Water Overflow\bin\Debug\netcoreapp3.1\Water Overflow.dll
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Water Overflow\bin\Debug\netcoreapp3.1\Water Overflow.pdb
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Water Overflow\obj\Debug\netcoreapp3.1\Water Overflow.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Water Overflow\obj\Debug\netcoreapp3.1\Water Overflow.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Water Overflow\obj\Debug\netcoreapp3.1\Water Overflow.AssemblyInfo.cs
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Water Overflow\obj\Debug\netcoreapp3.1\Water Overflow.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Water Overflow\obj\Debug\netcoreapp3.1\Water Overflow.dll
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Water Overflow\obj\Debug\netcoreapp3.1\Water Overflow.pdb
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Water Overflow\obj\Debug\netcoreapp3.1\Water Overflow.genruntimeconfig.cache

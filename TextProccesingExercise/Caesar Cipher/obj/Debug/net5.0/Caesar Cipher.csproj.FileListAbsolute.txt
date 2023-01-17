@@ -1,0 +1,16 @@
+D:\SoftuniC#Funds21\TextProccesingExercise\Caesar Cipher\bin\Debug\net5.0\Caesar Cipher.exe
+D:\SoftuniC#Funds21\TextProccesingExercise\Caesar Cipher\bin\Debug\net5.0\Caesar Cipher.deps.json
+D:\SoftuniC#Funds21\TextProccesingExercise\Caesar Cipher\bin\Debug\net5.0\Caesar Cipher.runtimeconfig.json
+D:\SoftuniC#Funds21\TextProccesingExercise\Caesar Cipher\bin\Debug\net5.0\Caesar Cipher.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\TextProccesingExercise\Caesar Cipher\bin\Debug\net5.0\Caesar Cipher.dll
+D:\SoftuniC#Funds21\TextProccesingExercise\Caesar Cipher\bin\Debug\net5.0\ref\Caesar Cipher.dll
+D:\SoftuniC#Funds21\TextProccesingExercise\Caesar Cipher\bin\Debug\net5.0\Caesar Cipher.pdb
+D:\SoftuniC#Funds21\TextProccesingExercise\Caesar Cipher\obj\Debug\net5.0\Caesar Cipher.csproj.AssemblyReference.cache
+D:\SoftuniC#Funds21\TextProccesingExercise\Caesar Cipher\obj\Debug\net5.0\Caesar Cipher.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\TextProccesingExercise\Caesar Cipher\obj\Debug\net5.0\Caesar Cipher.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\TextProccesingExercise\Caesar Cipher\obj\Debug\net5.0\Caesar Cipher.AssemblyInfo.cs
+D:\SoftuniC#Funds21\TextProccesingExercise\Caesar Cipher\obj\Debug\net5.0\Caesar Cipher.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\TextProccesingExercise\Caesar Cipher\obj\Debug\net5.0\Caesar Cipher.dll
+D:\SoftuniC#Funds21\TextProccesingExercise\Caesar Cipher\obj\Debug\net5.0\ref\Caesar Cipher.dll
+D:\SoftuniC#Funds21\TextProccesingExercise\Caesar Cipher\obj\Debug\net5.0\Caesar Cipher.pdb
+D:\SoftuniC#Funds21\TextProccesingExercise\Caesar Cipher\obj\Debug\net5.0\Caesar Cipher.genruntimeconfig.cache

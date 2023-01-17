@@ -1,0 +1,13 @@
+D:\SoftuniC#Funds21\DataTypesAndVariables\ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\ExactSumOfRealNumbers.exe
+D:\SoftuniC#Funds21\DataTypesAndVariables\ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\ExactSumOfRealNumbers.deps.json
+D:\SoftuniC#Funds21\DataTypesAndVariables\ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\ExactSumOfRealNumbers.runtimeconfig.json
+D:\SoftuniC#Funds21\DataTypesAndVariables\ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\ExactSumOfRealNumbers.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\DataTypesAndVariables\ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\ExactSumOfRealNumbers.dll
+D:\SoftuniC#Funds21\DataTypesAndVariables\ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\ExactSumOfRealNumbers.pdb
+D:\SoftuniC#Funds21\DataTypesAndVariables\ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\ExactSumOfRealNumbers.csprojAssemblyReference.cache
+D:\SoftuniC#Funds21\DataTypesAndVariables\ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\DataTypesAndVariables\ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\ExactSumOfRealNumbers.AssemblyInfo.cs
+D:\SoftuniC#Funds21\DataTypesAndVariables\ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\DataTypesAndVariables\ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\ExactSumOfRealNumbers.dll
+D:\SoftuniC#Funds21\DataTypesAndVariables\ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\ExactSumOfRealNumbers.pdb
+D:\SoftuniC#Funds21\DataTypesAndVariables\ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\ExactSumOfRealNumbers.genruntimeconfig.cache

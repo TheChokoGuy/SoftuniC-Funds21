@@ -1,0 +1,13 @@
+D:\SoftuniC#Funds21\ArraysExersice\Equal Sum\bin\Debug\netcoreapp3.1\Equal Sum.exe
+D:\SoftuniC#Funds21\ArraysExersice\Equal Sum\bin\Debug\netcoreapp3.1\Equal Sum.deps.json
+D:\SoftuniC#Funds21\ArraysExersice\Equal Sum\bin\Debug\netcoreapp3.1\Equal Sum.runtimeconfig.json
+D:\SoftuniC#Funds21\ArraysExersice\Equal Sum\bin\Debug\netcoreapp3.1\Equal Sum.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\ArraysExersice\Equal Sum\bin\Debug\netcoreapp3.1\Equal Sum.dll
+D:\SoftuniC#Funds21\ArraysExersice\Equal Sum\bin\Debug\netcoreapp3.1\Equal Sum.pdb
+D:\SoftuniC#Funds21\ArraysExersice\Equal Sum\obj\Debug\netcoreapp3.1\Equal Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\ArraysExersice\Equal Sum\obj\Debug\netcoreapp3.1\Equal Sum.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\ArraysExersice\Equal Sum\obj\Debug\netcoreapp3.1\Equal Sum.AssemblyInfo.cs
+D:\SoftuniC#Funds21\ArraysExersice\Equal Sum\obj\Debug\netcoreapp3.1\Equal Sum.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\ArraysExersice\Equal Sum\obj\Debug\netcoreapp3.1\Equal Sum.dll
+D:\SoftuniC#Funds21\ArraysExersice\Equal Sum\obj\Debug\netcoreapp3.1\Equal Sum.pdb
+D:\SoftuniC#Funds21\ArraysExersice\Equal Sum\obj\Debug\netcoreapp3.1\Equal Sum.genruntimeconfig.cache

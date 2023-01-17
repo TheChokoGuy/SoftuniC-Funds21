@@ -1,0 +1,16 @@
+D:\SoftuniC#Funds21\ExamPrep\Problem 1\bin\Debug\net5.0\Problem 1.exe
+D:\SoftuniC#Funds21\ExamPrep\Problem 1\bin\Debug\net5.0\Problem 1.deps.json
+D:\SoftuniC#Funds21\ExamPrep\Problem 1\bin\Debug\net5.0\Problem 1.runtimeconfig.json
+D:\SoftuniC#Funds21\ExamPrep\Problem 1\bin\Debug\net5.0\Problem 1.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\ExamPrep\Problem 1\bin\Debug\net5.0\Problem 1.dll
+D:\SoftuniC#Funds21\ExamPrep\Problem 1\bin\Debug\net5.0\ref\Problem 1.dll
+D:\SoftuniC#Funds21\ExamPrep\Problem 1\bin\Debug\net5.0\Problem 1.pdb
+D:\SoftuniC#Funds21\ExamPrep\Problem 1\obj\Debug\net5.0\Problem 1.csproj.AssemblyReference.cache
+D:\SoftuniC#Funds21\ExamPrep\Problem 1\obj\Debug\net5.0\Problem 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\ExamPrep\Problem 1\obj\Debug\net5.0\Problem 1.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\ExamPrep\Problem 1\obj\Debug\net5.0\Problem 1.AssemblyInfo.cs
+D:\SoftuniC#Funds21\ExamPrep\Problem 1\obj\Debug\net5.0\Problem 1.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\ExamPrep\Problem 1\obj\Debug\net5.0\Problem 1.dll
+D:\SoftuniC#Funds21\ExamPrep\Problem 1\obj\Debug\net5.0\ref\Problem 1.dll
+D:\SoftuniC#Funds21\ExamPrep\Problem 1\obj\Debug\net5.0\Problem 1.pdb
+D:\SoftuniC#Funds21\ExamPrep\Problem 1\obj\Debug\net5.0\Problem 1.genruntimeconfig.cache

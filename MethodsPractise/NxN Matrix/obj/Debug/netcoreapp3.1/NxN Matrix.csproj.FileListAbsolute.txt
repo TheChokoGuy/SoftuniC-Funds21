@@ -1,0 +1,13 @@
+D:\SoftuniC#Funds21\MethodsPractise\NxN Matrix\bin\Debug\netcoreapp3.1\NxN Matrix.exe
+D:\SoftuniC#Funds21\MethodsPractise\NxN Matrix\bin\Debug\netcoreapp3.1\NxN Matrix.deps.json
+D:\SoftuniC#Funds21\MethodsPractise\NxN Matrix\bin\Debug\netcoreapp3.1\NxN Matrix.runtimeconfig.json
+D:\SoftuniC#Funds21\MethodsPractise\NxN Matrix\bin\Debug\netcoreapp3.1\NxN Matrix.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\MethodsPractise\NxN Matrix\bin\Debug\netcoreapp3.1\NxN Matrix.dll
+D:\SoftuniC#Funds21\MethodsPractise\NxN Matrix\bin\Debug\netcoreapp3.1\NxN Matrix.pdb
+D:\SoftuniC#Funds21\MethodsPractise\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\MethodsPractise\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\MethodsPractise\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.AssemblyInfo.cs
+D:\SoftuniC#Funds21\MethodsPractise\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\MethodsPractise\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.dll
+D:\SoftuniC#Funds21\MethodsPractise\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.pdb
+D:\SoftuniC#Funds21\MethodsPractise\NxN Matrix\obj\Debug\netcoreapp3.1\NxN Matrix.genruntimeconfig.cache

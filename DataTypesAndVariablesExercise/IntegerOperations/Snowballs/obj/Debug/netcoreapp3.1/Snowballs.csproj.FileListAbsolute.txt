@@ -1,0 +1,13 @@
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.exe
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.deps.json
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.runtimeconfig.json
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.dll
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.pdb
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.AssemblyInfo.cs
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.dll
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.pdb
+D:\SoftuniC#Funds21\DataTypesAndVariablesExercise\IntegerOperations\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.genruntimeconfig.cache

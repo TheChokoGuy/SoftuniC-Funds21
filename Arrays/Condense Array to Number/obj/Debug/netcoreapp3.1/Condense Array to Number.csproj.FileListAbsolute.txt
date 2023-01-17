@@ -1,0 +1,14 @@
+D:\SoftuniC#Funds21\Arrays\Condense Array to Number\bin\Debug\netcoreapp3.1\Condense Array to Number.exe
+D:\SoftuniC#Funds21\Arrays\Condense Array to Number\bin\Debug\netcoreapp3.1\Condense Array to Number.deps.json
+D:\SoftuniC#Funds21\Arrays\Condense Array to Number\bin\Debug\netcoreapp3.1\Condense Array to Number.runtimeconfig.json
+D:\SoftuniC#Funds21\Arrays\Condense Array to Number\bin\Debug\netcoreapp3.1\Condense Array to Number.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\Arrays\Condense Array to Number\bin\Debug\netcoreapp3.1\Condense Array to Number.dll
+D:\SoftuniC#Funds21\Arrays\Condense Array to Number\bin\Debug\netcoreapp3.1\Condense Array to Number.pdb
+D:\SoftuniC#Funds21\Arrays\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Funds21\Arrays\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\Arrays\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.AssemblyInfo.cs
+D:\SoftuniC#Funds21\Arrays\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\Arrays\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.dll
+D:\SoftuniC#Funds21\Arrays\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.pdb
+D:\SoftuniC#Funds21\Arrays\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.genruntimeconfig.cache
+D:\SoftuniC#Funds21\Arrays\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.csproj.AssemblyReference.cache

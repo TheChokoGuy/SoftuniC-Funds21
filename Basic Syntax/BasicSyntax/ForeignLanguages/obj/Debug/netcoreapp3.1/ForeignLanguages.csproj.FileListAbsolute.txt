@@ -1,0 +1,12 @@
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\ForeignLanguages\bin\Debug\netcoreapp3.1\ForeignLanguages.exe
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\ForeignLanguages\bin\Debug\netcoreapp3.1\ForeignLanguages.deps.json
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\ForeignLanguages\bin\Debug\netcoreapp3.1\ForeignLanguages.runtimeconfig.json
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\ForeignLanguages\bin\Debug\netcoreapp3.1\ForeignLanguages.runtimeconfig.dev.json
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\ForeignLanguages\bin\Debug\netcoreapp3.1\ForeignLanguages.dll
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\ForeignLanguages\bin\Debug\netcoreapp3.1\ForeignLanguages.pdb
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.AssemblyInfoInputs.cache
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.AssemblyInfo.cs
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.dll
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.pdb
+D:\SoftuniC#Funds21\Basic Syntax\BasicSyntax\ForeignLanguages\obj\Debug\netcoreapp3.1\ForeignLanguages.genruntimeconfig.cache
